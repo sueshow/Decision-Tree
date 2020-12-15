@@ -26,6 +26,31 @@
 「偏好依附原則」（preferential attachment）：有較高的機率連接到現有社群網路中朋友數較多的節點，以此方式即可生成出具有節點度冪次分布之社群網路
 <br>
 
+## 安裝 Rstudio
+```
+docker pull rocker/rstudio
+docker run -d -p 8787:8787 -e ROOT=TRUE rocker/rstudio
+```
+<br>
+
+## 安裝 ubuntu 套件
+```
+sudo apt-get update
+sudo apt-get install libxml2-dev
+```
+<br>
+
+## 安裝 R 套件
+```
+install.packages(c("xml2","XML","httr","stringr", "igraph", "dplyr"));
+```
+<br>
+
+## 爬網
+```
+```
+<br>
 
 ## 參考資料
 * https://ee.ntu.edu.tw/upload/hischool/doc/2014.05.pdf
+* https://medium.com/bryanyang0528/r-ptt%E6%8E%A8%E6%96%87%E6%96%87%E5%8C%96%E7%9A%84%E7%A4%BE%E7%BE%A4%E7%B6%B2%E7%B5%A1%E5%88%86%E6%9E%90-social-network-analysis-%E5%B8%B6%E4%BD%A0%E4%B8%80%E7%AA%BA%E7%A4%BE%E7%BE%A4%E7%B6%B2%E7%B5%A1%E4%B8%AD%E7%9A%84%E4%BA%92%E5%8B%95%E6%83%85%E6%B3%81-5cab015bbac8
