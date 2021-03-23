@@ -53,6 +53,6 @@ install.packages(c("xml2","XML","httr","stringr", "igraph", "dplyr"));
 <br>
 
 ## 參考資料
-* (巨量資料中的小世界––漫談社群網路)[https://ee.ntu.edu.tw/upload/hischool/doc/2014.05.pdf]
-* ([R]PTT推文文化的社群網絡分析，帶你一窺社群網絡中的互動情況)[https://medium.com/bryanyang0528/r-ptt%E6%8E%A8%E6%96%87%E6%96%87%E5%8C%96%E7%9A%84%E7%A4%BE%E7%BE%A4%E7%B6%B2%E7%B5%A1%E5%88%86%E6%9E%90-social-network-analysis-%E5%B8%B6%E4%BD%A0%E4%B8%80%E7%AA%BA%E7%A4%BE%E7%BE%A4%E7%B6%B2%E7%B5%A1%E4%B8%AD%E7%9A%84%E4%BA%92%E5%8B%95%E6%83%85%E6%B3%81-5cab015bbac8]
-* ([Python]淺談社會網路分析的度中心性、介數中心性及接近中心性)[https://medium.com/qiubingcheng/python-%E6%B7%BA%E8%AB%87%E7%A4%BE%E6%9C%83%E7%B6%B2%E8%B7%AF%E5%88%86%E6%9E%90-social-network-analysis-%E7%9A%84%E5%BA%A6%E4%B8%AD%E5%BF%83%E6%80%A7-degree-centrality-%E4%BB%8B%E6%95%B8%E4%B8%AD%E5%BF%83%E6%80%A7-betweenness-9b9f01c4d088]
+* [巨量資料中的小世界––漫談社群網路](https://ee.ntu.edu.tw/upload/hischool/doc/2014.05.pdf)
+* [【R】PTT推文文化的社群網絡分析，帶你一窺社群網絡中的互動情況](https://medium.com/bryanyang0528/r-ptt%E6%8E%A8%E6%96%87%E6%96%87%E5%8C%96%E7%9A%84%E7%A4%BE%E7%BE%A4%E7%B6%B2%E7%B5%A1%E5%88%86%E6%9E%90-social-network-analysis-%E5%B8%B6%E4%BD%A0%E4%B8%80%E7%AA%BA%E7%A4%BE%E7%BE%A4%E7%B6%B2%E7%B5%A1%E4%B8%AD%E7%9A%84%E4%BA%92%E5%8B%95%E6%83%85%E6%B3%81-5cab015bbac8)
+* [【Python】淺談社會網路分析的度中心性、介數中心性及接近中心性](https://medium.com/qiubingcheng/python-%E6%B7%BA%E8%AB%87%E7%A4%BE%E6%9C%83%E7%B6%B2%E8%B7%AF%E5%88%86%E6%9E%90-social-network-analysis-%E7%9A%84%E5%BA%A6%E4%B8%AD%E5%BF%83%E6%80%A7-degree-centrality-%E4%BB%8B%E6%95%B8%E4%B8%AD%E5%BF%83%E6%80%A7-betweenness-9b9f01c4d088)
