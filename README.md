@@ -1,4 +1,4 @@
-# SNA
+# Social Network Analysis
 
 ## 簡介
 * 最原始的社群網路是一種由節點 (node) 與邊 (edge) 所組成的圖形結構 (graph)，其中節點所代表的是人，邊所代表的是人與人之間的各種相互認識的
